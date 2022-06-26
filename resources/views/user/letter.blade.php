@@ -4,7 +4,7 @@
   <a href="{{ route('user.alphabets')}}" class="btn btn-primary" style="border-radius: 15px;"><i class="fa fa-arrow-left"></i> alphabets</a>
       <div class="templatemo-flex-row flex-content-row templatemo-overflow-hidden "> <!-- overflow hidden for iPad mini landscape view-->
         
-        <div class="templatemo-content-widget white-bg col-1 text-center templatemo-position-relative" style="border-radius: 34px; box-shadow: -30px -30px 19px -31px #9E9E9E;">
+        <div class="lesson-content-widget white-bg  text-center templatemo-position-relative">
        
           <div class="suggestion row text-center">
             <div class="col-sm-6">

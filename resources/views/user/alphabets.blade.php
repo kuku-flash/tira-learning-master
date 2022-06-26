@@ -3,7 +3,7 @@
 <div class="templatemo-content-container">
     
   <a href="{{ route('user.level')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px;"><i class="fa fa-arrow-left"></i> course</a>
-  <a href="{{ route('user.greetings')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px; float: right; ">Greetings <i class="fa fa-arrow-right"></i></a>
+  <a href="{{ route('user.greetings')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px; float: right; ">Alohiyo <i class="fa fa-arrow-right"></i></a>
     <div class="templatemo-flex-row flex-content-row">
         <div class="col-md-12">              
           <div class="panel panel-default ">

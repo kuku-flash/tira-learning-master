@@ -4,7 +4,9 @@
 
 
 <div class="templatemo-content-container">
-  <a href="{{ route('user.level')}}" class="btn btn-primary back-arrow" ><i class="fa fa-arrow-left"></i> back</a>  
+  <a href="{{ route('user.days')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px;"><i class="fa fa-arrow-left"></i> Ngomon weeks</a>
+  <a href="{{ route('user.numbers')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px; float: right; ">Auwmizino <i class="fa fa-arrow-right"></i></a>
+  
   <div class="templatemo-flex-row flex-content-row templatemo-overflow-hidden "> <!-- overflow hidden for iPad mini landscape view-->
   
       <div class="templatemo-content-widget white-bg col-1 text-center templatemo-position-relative" style="border-radius: 34px; box-shadow: -30px -30px 19px -31px #9E9E9E;">

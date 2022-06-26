@@ -4,29 +4,29 @@
   <div class="templatemo-flex-row flex-content-row">
     <div class="col-2">         
            
-      <div class="panel panel-default margin-auto" >
-        <div class="panel-heading text-center" style="background-color: #13895F;"><h2><span class="fa fa-star"> </span> Intro</h2></div>
+      <div class="lesson-content-widget white-bg margin-auto" >
+        <div class="round-box-major-title  text-center" style="background-color: #13895F; width:100%"><h2><span class="fa fa-square"> </span> Ziricoco</h2></div>
       <div class="panel-body">
       
-        <div class="templatemo-content-widget  col-md-3 " style="border-radius: 34px; box-shadow: -30px -30px 19px -31px #9E9E9E;" > 
+        <div class="round-box col-md-3 " style="" > 
            
-      <a class=" margin-bottom-10 text-center" href="{{ route('user.alphabets')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-tasks" > </span> Alphabets</h2></a>
+      <a class=" margin-bottom-10 text-center" href="{{ route('user.alphabets')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-sort-alpha-asc" > </span> Nguhi</h2></a>
       </div>
-      <div class="templatemo-content-widget  col-md-3 " style="border-radius: 34px; box-shadow: -30px -30px 19px -31px #9E9E9E;" > 
+      <div class="round-box col-md-3 " > 
            
-        <a class=" margin-bottom-10 text-center" href="{{ route('user.greetings')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-tasks" > </span> Greetings</h2></a>
+        <a class=" margin-bottom-10 text-center" href="{{ route('user.greetings')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-smile-o" > </span> Alohiyo</h2></a>
         </div>
-      <div class="templatemo-content-widget  col-md-3 " style="border-radius: 34px; box-shadow: -30px -30px 19px -31px #9E9E9E;" > 
+      <div class="round-box   col-md-3 " > 
           
-        <a class=" margin-bottom-10 text-center" href="{{ route('user.days')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-tasks" > </span> Days of week</h2></a>
+        <a class=" margin-bottom-10 text-center" href="{{ route('user.days')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-calendar" > </span> Ngomon lopoze </h2></a>
         </div>
-      <div class="templatemo-content-widget  col-md-3 " style="border-radius: 34px; box-shadow: -30px -30px 19px -31px #9E9E9E;" > 
+      <div class="round-box   col-md-3 " > 
         
-        <a class=" margin-bottom-10 text-center" href="{{ route('user.months')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-tasks" > </span> Month Names</h2></a>
+        <a class=" margin-bottom-10 text-center" href="{{ route('user.months')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-calendar" > </span> Ndri Nuwo</h2></a>
         </div>
-      <div class="templatemo-content-widget  col-md-3 " style="border-radius: 34px; box-shadow: -30px -30px 19px -31px #9E9E9E;" > 
+      <div class="round-box  col-md-3 "  > 
         
-          <a class=" margin-bottom-10 text-center" href="{{ route('user.numbers')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-tasks" > </span> Numbers</h2></a>
+          <a class=" margin-bottom-10 text-center" href="{{ route('user.numbers')}}"> <h2 class=" margin-bottom-10" ><span class="fa fa-sort-numeric-asc" > </span> Awumazino</h2></a>
           </div>
     </div>
       </div>

@@ -2,7 +2,8 @@
 @section('content')
 
 <div class="templatemo-content-container">
-  <a href="{{ route('user.level')}}" class="btn btn-primary back-arrow" ><i class="fa fa-arrow-left"></i> back</a> 
+  <a href="{{ route('user.greetings')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px;"><i class="fa fa-arrow-left"></i> Ngomon lopoze</a>
+  <a href="{{ route('user.months')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px; float: right; ">Nuwo <i class="fa fa-arrow-right"></i></a>
   <div class="templatemo-flex-row flex-content-row templatemo-overflow-hidden "> <!-- overflow hidden for iPad mini landscape view-->
 
 
@@ -12,7 +13,7 @@
         
           <div class="col-sm-12">
           
-          <h2 class="text-center round-box-title blue-text" >Days of the Week</h2>
+          <h2 class="text-center round-box-title blue-text" >Ngomon lopoze </h2>
           </div>
           
         </div>

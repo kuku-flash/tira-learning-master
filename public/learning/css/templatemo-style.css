@@ -623,6 +623,27 @@ input[type="radio"]:checked + label span {
     margin-top: 10px;
     margin-bottom: 34px;
 }
+.round-box {
+	padding: 33px;
+    border-radius: 122px;
+    /* box-shadow: -4px 9px 40px -22px #363c3b8a; */
+    box-shadow: -4px 4px 28px -10px #363c3b8a;
+	margin: 33px;
+    height: 100px;
+}
+.round-box-major-title {
+	padding: 15px;
+	border-radius: 122px;
+	box-shadow: -4px 4px 28px -10px #363c3b8a;
+    margin-top: 10px;
+    margin-bottom: 34px;
+	background-color: #47768de3;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-size: 15px;
+}
 .speaker-icon{
 	background-color: transparent; 
 	border: 0px;
@@ -751,6 +772,19 @@ input[type="radio"]:checked + label span {
 		font-size: 20px; 
 		margin-top: 25px; 
 		margin-bottom:15px;
+	}
+	.round-box-major-title {
+		padding: 15px;
+		border-radius: 122px;
+		box-shadow: -4px 4px 28px -10px #363c3b8a;
+		margin-top: 10px;
+		margin-bottom: 34px;
+		background-color: #47768de3;
+		width: 70%;
+		text-align: center;
+		margin: auto;
+		color: white;
+		font-size: 15px;
 	}
 
 
