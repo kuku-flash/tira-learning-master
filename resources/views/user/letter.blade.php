@@ -1,7 +1,7 @@
 @extends('layouts.learn')
 @section('content')
 <div class="templatemo-content-container">
-  <a href="{{ route('user.alphabets')}}" class="btn btn-primary" style="border-radius: 15px;"><i class="fa fa-arrow-left"></i> alphabets</a>
+  <a href="{{ route('user.alphabets')}}" class="btn btn-primary" style="border-radius: 15px;"><i class="fa fa-arrow-left"></i> Nguhi</a>
       <div class="templatemo-flex-row flex-content-row templatemo-overflow-hidden "> <!-- overflow hidden for iPad mini landscape view-->
         
         <div class="lesson-content-widget white-bg  text-center templatemo-position-relative">
@@ -20,7 +20,7 @@
               <source src="/storage/lesson_audios/{{ $letter->letter_audio }}" />
           </audio>
             <div class="lesson-audio text-center">
-              <button id="correct" style=" display: block; background-color: transparent; border: 0px;margin: auto;"><i class="fa fa-volume-up" style="color:#2196f3; font-size:70px;"></i> 
+              <button id="correct" style=" display: block; background-color: transparent; border: 0px;margin: auto;"><i class="fa fa-volume-up fa fa-volume-up speaker-color" style=" font-size:70px;"></i> 
               </div>
         </button>
           </div>
@@ -30,12 +30,12 @@
             
           </div>
           
-          <h2 class="text-lowercase blue-text margin-bottom-5" style="font-size: 45px;">{{ $letter->illustration_text }}
+          <h2 class="text-lowercase blue-text margin-bottom-10" style="font-size: 45px;">{{ $letter->illustration_text }}
           
             <audio id="wrongSound">
               <source src="/storage/lesson_audios/{{ $letter->illustration_audio }}" />
             </audio>
-            <button id="wrong1" style=" background-color: transparent; border: 0px;margin: auto;"><i class="fa fa-volume-up" style="color:#2196f3; font-size:30px;"></i> 
+            <button id="wrong1" style=" background-color: transparent; border: 0px;margin: auto;"><i class="fa fa-volume-up fa fa-volume-up speaker-color" style=" font-size:30px;" ></i> 
          </button>
           </h2>
           <h3 class="text-lowercase margin-bottom-70 mt-5" style="font-size: 40px;">{{ $letter->illustration_text_trans_eng }} | {{ $letter->illustration_text_trans_ar }}</h3>

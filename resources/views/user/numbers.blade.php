@@ -6,9 +6,9 @@
 <div class="templatemo-content-container">
   <a href="{{ route('user.level')}}" class="btn btn-primary back-arrow" style="margin-bottom:15px;"><i class="fa fa-arrow-left"></i> back</a>
       <div class="templatemo-flex-row flex-content-row">
-          <div class="col-md-12">              
-            <div class="panel panel-default ">
-              <div class="panel-heading text-center" style="background-color:#47768de3; "><h2>Numbers</h2></div>
+          <div class="lesson-content-widget white-bg col-md-12">              
+          
+              <div class="round-box-major-title text-center" style="background-color:#47768de3; "><h2>Awumazino</h2></div>
               <div class="panel-body row">
              
               <div class="col-md-12">  
@@ -513,7 +513,7 @@
                                 </div>
                             </div>
               </div>                
-            </div>
+           
           </div> 
                      
         </div>   
