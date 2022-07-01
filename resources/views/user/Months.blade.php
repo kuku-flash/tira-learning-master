@@ -13,7 +13,7 @@
         <div class="suggestion row text-center">
         
           <div class="col-sm-12">
-            <h2 class="text-center round-box-title blue-text" > Months </h2>
+            <h2 class="text-center round-box-title blue-text" > Ndri Nuwo </h2>
           </div>
           
         </div>
