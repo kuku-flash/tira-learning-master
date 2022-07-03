@@ -35,7 +35,11 @@
       <button id="correct" class="speaker-icon"><i class="fa fa-volume-up speaker-color font-30"></i> </button>
      
       </h2>
-      <h3 class="mt-5 trans-fonts eng" > {{ $greeting->trans_eng}}  </h3>
+      <h3 class="mt-5 trans-fonts eng" > 
+      @if( $greeting->trans_eng)
+          {{ $greeting->trans_eng}} 
+      @endif
+      </h3>
       <h3 class="margin-bottom-10 trans-fonts ar" >  {{ $greeting->trans_ar}} </h3>
     
 

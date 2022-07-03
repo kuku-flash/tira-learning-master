@@ -22,11 +22,10 @@
             <thead>                  
               <tr>
       
-                <td><b>Month Number</b></td>
-                <td><b>Months</b></td>
-                <td><b>Month Range</b></td>
-                <td><b>English</b></td>
-                <td><b>Arabic</b></td>
+                <td><b>Lomottor</b></td>
+                <td><b>Uwo</b></td>
+                <td><b>Ngomon</b></td>
+             
             
                 
               </tr>
@@ -43,8 +42,7 @@
                     </button>
                 </td>
                 <td>{{ $month->month_lenght}}
-                <td>{{ $month->trans_eng}}</td>
-                <td>{{ $month->trans_ar}}</td>
+         
             
               </tr>
               @endforeach
@@ -60,7 +58,7 @@
 
  
 </div>
-<a href="{{ route('user.level')}}" class="btn btn-primary back-arrow" ><i class="fa fa-arrow-left"></i> back</a>       
+
 <script>
   const mySound = document.getElementById("sound");
   const correctButton = document.getElementById("correct");

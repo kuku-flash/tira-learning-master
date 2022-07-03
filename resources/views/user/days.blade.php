@@ -22,10 +22,9 @@
             <thead>                  
               <tr>
       
-                <td><b>Day Number</b></td>
-                <td><b>Days</b></td>
-                <td><b>English</b></td>
-                <td><b>Arabic</b></td>
+                <td><b>Lamottor</b></td>
+                <td><b>Ndri Ne Ngomon</b></td>
+              
             
                 
               </tr>
@@ -41,8 +40,7 @@
                     <button id="correct" class="speaker-icon"><i class="fa fa-volume-up speaker-color font-20"></i> 
                     </button>
                 </td>
-                <td>{{ $day->trans_eng}}</td>
-                <td>{{ $day->trans_ar}}</td>
+             
             
               </tr>
               @endforeach
@@ -57,7 +55,6 @@
 
       
 </div>
-<a href="{{ route('user.level')}}" class="btn btn-primary back-arrow" ><i class="fa fa-arrow-left"></i> back</a> 
 
 
 <script>

@@ -4,7 +4,9 @@
 
 
 <div class="templatemo-content-container">
-  <a href="{{ route('user.level')}}" class="btn btn-primary back-arrow" style="margin-bottom:15px;"><i class="fa fa-arrow-left"></i> back</a>
+  <a href="{{ route('user.months')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px;"><i class="fa fa-arrow-left"></i> Ndri Nuwo</a>
+  <a href="{{ route('user.level')}}" class="btn btn-primary" style="border-radius: 15px; margin-bottom: 12px; float: right; ">Finish <i class="fa fa-flag "></i></a>
+  
       <div class="templatemo-flex-row flex-content-row">
           <div class="lesson-content-widget white-bg col-md-12">              
           
@@ -178,100 +180,88 @@
                             <td>130</td>
                           </tr>
                           <tr>
-                            <td>121</td>
-                            <td>22</td>
-                            <td>23</td>
-                            <td>24</td>
-                            <td>25</td>
-                            <td>26</td>
-                            <td>27</td>
-                            <td>28</td>
-                            <td>29</td>
-                            <td>30</td>
+                            <td>131</td>
+                            <td>132</td>
+                            <td>133</td>
+                            <td>134</td>
+                            <td>135</td>
+                            <td>136</td>
+                            <td>137</td>
+                            <td>138</td>
+                            <td>139</td>
+                            <td>140</td>
                           </tr>
                           <tr>
-                            <td>31</td>
-                            <td>32</td>
-                            <td>33</td>
-                            <td>34</td>
-                            <td>35</td>
-                            <td>36</td>
-                            <td>37</td>
-                            <td>38</td>
-                            <td>39</td>
-                            <td>40</td>
+                            <td>141</td>
+                            <td>142</td>
+                            <td>143</td>
+                            <td>144</td>
+                            <td>145</td>
+                            <td>146</td>
+                            <td>147</td>
+                            <td>148</td>
+                            <td>149</td>
+                            <td>150</td>
                           </tr>
                           <tr>
-                            <td>41</td>
-                            <td>42</td>
-                            <td>43</td>
-                            <td>44</td>
-                            <td>45</td>
-                            <td>46</td>
-                            <td>47</td>
-                            <td>48</td>
-                            <td>49</td>
-                            <td>50</td>
+                            <td>151</td>
+                            <td>152</td>
+                            <td>153</td>
+                            <td>154</td>
+                            <td>155</td>
+                            <td>156</td>
+                            <td>157</td>
+                            <td>158</td>
+                            <td>159</td>
+                            <td>160</td>
                           </tr>
                           <tr>
-                            <td>51</td>
-                            <td>52</td>
-                            <td>53</td>
-                            <td>54</td>
-                            <td>55</td>
-                            <td>56</td>
-                            <td>57</td>
-                            <td>58</td>
-                            <td>59</td>
-                            <td>60</td>
+                            <td>161</td>
+                            <td>162</td>
+                            <td>163</td>
+                            <td>164</td>
+                            <td>165</td>
+                            <td>166</td>
+                            <td>167</td>
+                            <td>168</td>
+                            <td>169</td>
+                            <td>170</td>
                           </tr>
                           <tr>
-                            <td>61</td>
-                            <td>62</td>
-                            <td>63</td>
-                            <td>64</td>
-                            <td>65</td>
-                            <td>66</td>
-                            <td>67</td>
-                            <td>68</td>
-                            <td>69</td>
-                            <td>70</td>
+                            <td>171</td>
+                            <td>172</td>
+                            <td>173</td>
+                            <td>174</td>
+                            <td>175</td>
+                            <td>176</td>
+                            <td>177</td>
+                            <td>178</td>
+                            <td>179</td>
+                            <td>180</td>
                           </tr>
                           <tr>
-                            <td>71</td>
-                            <td>72</td>
-                            <td>73</td>
-                            <td>74</td>
-                            <td>75</td>
-                            <td>76</td>
-                            <td>77</td>
-                            <td>78</td>
-                            <td>79</td>
-                            <td>80</td>
+                            <td>181</td>
+                            <td>182</td>
+                            <td>183</td>
+                            <td>184</td>
+                            <td>185</td>
+                            <td>186</td>
+                            <td>187</td>
+                            <td>188</td>
+                            <td>189</td>
+                            <td>190</td>
                           </tr>
                           <tr>
-                            <td>81</td>
-                            <td>82</td>
-                            <td>83</td>
-                            <td>84</td>
-                            <td>85</td>
-                            <td>86</td>
-                            <td>87</td>
-                            <td>88</td>
-                            <td>89</td>
-                            <td>90</td>
-                          </tr>
-                          <tr>
-                            <td>91</td>
-                            <td>92</td>
-                            <td>93</td>
-                            <td>94</td>
-                            <td>95</td>
-                            <td>96</td>
-                            <td>97</td>
-                            <td>98</td>
-                            <td>99</td>
-                            <td>100</td>
+                            <td>191</td>
+                            <td>192</td>
+                            <td>193</td>
+                            <td>194</td>
+                            <td>195</td>
+                            <td>196</td>
+                            <td>197</td>
+                            <td>198</td>
+                            <td>199</td>
+                            <td>200</td>
                           </tr>
                      
                          
@@ -518,6 +508,5 @@
                      
         </div>   
     
-        <a href="{{ route('user.level')}}" class="btn btn-primary back-arrow" ><i class="fa fa-arrow-left"></i> back</a>   
     </div>
 @endsection
